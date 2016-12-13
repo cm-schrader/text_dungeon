@@ -1,0 +1,2 @@
+('attack goblin with sword', 3, {'sword': <items.Sword object at 0x0214F610>, 'ooze': 'ooze', 'puddle': <props.puddle object at 0x0214FCF0>, 'goblin': <entitys.Goblin object at 0x01C55B50>, 'flask': <items.Flask object at 0x01C55AF0>})
+('say ###', None, {'sword': <items.Sword object at 0x0214F610>, 'ooze': 'ooze', 'puddle': <props.puddle object at 0x0214FCF0>, 'goblin': <entitys.Goblin object at 0x01C55B50>, 'flask': <items.Flask object at 0x01C55AF0>})
